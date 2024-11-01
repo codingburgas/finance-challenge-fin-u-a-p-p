@@ -1,5 +1,4 @@
 <p align = "center">
-  <img src="documents/logo.png" text-align="center">
 </p>
 
 <hr>
