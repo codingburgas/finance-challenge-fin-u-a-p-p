@@ -81,3 +81,18 @@ int main() {
 
     return 0;
 }
+// base for data analys part
+    /*double calendar[12][31];
+    calendar[11][27] = 5;
+    calendar[11][28] = 6;
+    calendar[11][29] = 7;
+    calendar[11][31] = 9;
+    cout << "Hello World!";
+    for (int i = 0; i < 12; i++) {
+        for (int j = 0; j < 31; j++) {
+            cout << calendar[i][j] << endl;
+        }
+    }
+
+}
+*/
