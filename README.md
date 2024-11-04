@@ -26,8 +26,9 @@ https://github.com/codingburgas/finance-challenge-fin-u-a-p-p.git
 <p>3. Open the .sln file</p>
 <p>4. Run the project!</p>
 
-Documentation</h1>
-
+<h1>Documentation</h1>
+<h3>Presentation</h3>
+https://codingburgas-my.sharepoint.com/:p:/g/personal/psivanov22_codingburgas_bg/EUL5nBNAxtBNoJRqHvGgPFIBh5WThFGej1ROJqjD0Z7rlQ?e=dbuDbg
 <h1>💻 Used Technologies</h1>
   
  <p><img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="C++" width="20" height="20"> C/C++ - Main Languages</p>
