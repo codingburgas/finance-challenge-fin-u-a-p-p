@@ -17,12 +17,12 @@ Git
 
 - <p>Installing<p>
 <p>1. Clone the repo</p>
-
+<p>2. Install gnuplot</p>
 ```
 https://github.com/codingburgas/finance-challenge-fin-u-a-p-p.git
 ```
-<p>2. Open the .sln file</p>
-<p>3. Run the project!</p>
+<p>3. Open the .sln file</p>
+<p>4. Run the project!</p>
 
 Documentation</h1>
 
@@ -37,5 +37,5 @@ Documentation</h1>
 The Team
 <p><a href="https://github.com/PSIvanov22">Petko Ivanov</a> - Scrum Trainer</p>
 <p><a href="https://github.com/NVBalandin22">Nikita Balandin</a> - Back-end Developer</p>
-<p><a href="https://github.com/SNGochev22">Stiliqn Gochev</a> - Back-end Developer</p>
+<p><a href="https://github.com/SNGochev">Stiliqn Gochev</a> - Back-end Developer</p>
 <p><a href="https://github.com/VBTodorov22">Veselin Todorov</a> - Back-end Developer</p>
