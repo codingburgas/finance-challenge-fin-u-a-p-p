@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{71eaf41e-ba57-418d-9e90-4f9f0af5f123}</ProjectGuid>
-    <RootNamespace>ConsoleApplication2</RootNamespace>
+    <ProjectGuid>{056b2915-50c6-421e-b7cb-ace8d963733e}</ProjectGuid>
+    <RootNamespace>main</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,18 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Account.cpp" />
-    <ClCompile Include="ConsoleApplication2.cpp" />
-    <ClCompile Include="DataAnalysis.cpp" />
-    <ClCompile Include="Expense.cpp" />
-    <ClCompile Include="FinancialQuiz.cpp" />
+    <ClCompile Include="main.cpp">
+      <LanguageStandard Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">stdcpp20</LanguageStandard>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Account.h" />
     <ClInclude Include="Color.h" />
-    <ClInclude Include="DataAnalysis.h" />
     <ClInclude Include="Expense.h" />
-    <ClInclude Include="FinancialQuiz.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
