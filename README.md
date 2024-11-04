@@ -29,6 +29,8 @@ https://github.com/codingburgas/finance-challenge-fin-u-a-p-p.git
 <h1>Documentation</h1>
 <h3>Presentation</h3>
 https://codingburgas-my.sharepoint.com/:p:/g/personal/psivanov22_codingburgas_bg/EUL5nBNAxtBNoJRqHvGgPFIBh5WThFGej1ROJqjD0Z7rlQ?e=dbuDbg
+<h3>Documentation File</h3>
+https://codingburgas-my.sharepoint.com/:w:/g/personal/psivanov22_codingburgas_bg/ERxPU2se695ApzFF-5xu8y8BZT1A834XpIaP8jIpwK8LXg?e=oC9Sg4
 <h1>💻 Used Technologies</h1>
   
  <p><img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="C++" width="20" height="20"> C/C++ - Main Languages</p>
