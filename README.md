@@ -18,6 +18,8 @@ Git
 - <p>Installing<p>
 <p>1. Clone the repo</p>
 <p>2. Install gnuplot</p>
+https://sourceforge.net/projects/gnuplot/files/latest/download
+
 ```
 https://github.com/codingburgas/finance-challenge-fin-u-a-p-p.git
 ```
